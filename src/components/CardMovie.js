@@ -16,6 +16,9 @@ function CardMovie() {
     <Box p="0" maxW="240px" borderRadius="lg" textAlign="left">
       <Box position="relative"></Box>
       <Text fontSize="xl" fontWeight="bold" mt="4">
+        This is a movie Card
+      </Text>
+      <Text fontSize="xl" fontWeight="bold" mt="4">
         Movie Title
       </Text>
     </Box>
